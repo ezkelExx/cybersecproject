@@ -1,5 +1,6 @@
-<h1>Hi, I'm Zeke! <br/>I am driven and passionate about safeguarding people’s security, including their financial well being. I enjoy working with technology and analyzing and solving complex problems.
-
+<h1>Hi, I'm Zeke!</h1>
+    <!-- Description with lowered font size -->
+    <p style="font-size: 8px;">I am driven and passionate about safeguarding people’s security, including their financial well-being. I enjoy working with technology and analyzing and solving complex problems.</p>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>[Conduct a Security Audit](https://github.com/ezkelExx/securityaudit-/blob/main/Portfolio%202%20-%20Conduct%20a%20Security%20Audit%202.pdf)</b>
@@ -32,9 +33,12 @@
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<a href="693695449475055737">
+        <img align="left" alt="Discord Logo" width="22px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" />
+    </a>
 
 [linkedin]: https://linkedin.com/in/ezekiel-manalo
+[discord]: 693695449475055737
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
