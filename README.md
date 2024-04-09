@@ -33,12 +33,12 @@
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<a href="693695449475055737">
+<a href="_jiiku">
         <img align="left" alt="Discord Logo" width="22px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" />
     </a>
 
 [linkedin]: https://linkedin.com/in/ezekiel-manalo
-[discord]: 693695449475055737
+[discord]: _jiiku
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
