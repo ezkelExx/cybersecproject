@@ -18,6 +18,8 @@
 - <b>[Finalize your incident handler's journal](https://github.com/ezkelExx/incidenthandler2-/blob/main/Portfolio%20Activity%208%20-%20Finalize%20your%20incident%20handler's%20journal.pdf)</b>
 
 - <b>[Update a file through a Python algorithm](https://github.com/ezkelExx/pythonalgo/blob/main/Portfolio%20Activity%209%20-%20Update%20a%20file%20through%20a%20Python%20algorithm.pdf)</b>
+
+<p style="font-size: 8px;">Note: Projects and Activities are currently on Private visibility. </p>
 <br>
 <h2> 🖥️ Activities</h2>
 
@@ -40,6 +42,8 @@
 - <b>[Investigate a suspicious file hash](https://github.com/ezkelExx/activities/blob/main/Activity%209%20-%20Investigate%20a%20suspicious%20file%20hash.pdf)</b>
 
 - <b>[Use a playbook to respond to a phishing incident](https://github.com/ezkelExx/activities/blob/main/Activity%2010%20-%20Use%20a%20playbook%20to%20respond%20to%20a%20phishing%20incident.pdf)</b>
+
+<p style="font-size: 8px;">Note: Projects and Activities are currently on Private visibility. </p>
 <br>
 <h2>🎖️ Certifications</h2>
 
