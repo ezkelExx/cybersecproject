@@ -21,13 +21,25 @@
 
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>🎖️ Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+<div style="display:flex; align-items:center;">
+    <img align="left" alt="CompTIA Security+" width="40px" src="https://images.credly.com/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" />
+    <h3 style="margin-left: 10px;">CompTIA Security+</h3>
+</div>
+
+<div style="display:flex; align-items:center;">
+    <img align="left" alt="Google Cybersecurity" width="40px" src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" />
+    <h3 style="margin-left: 10px;">Google Cybersecurity</h3>
+</div>
+
+<div style="display:flex; align-items:center;">
+    <img align="left" alt="98-381:MTA: Introduction to Programming using Python" width="40px" src="https://www.certiport.com/Portal/images/mslogo_small.png" />
+    <h3 style="margin-left: 10px;">98-381:MTA: Introduction to Programming using Python</h3>
+</div>
+<br>
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -37,17 +49,4 @@
 
 [linkedin]: https://linkedin.com/in/ezekiel-manalo
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
